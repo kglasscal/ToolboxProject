@@ -1,0 +1,14 @@
+---
+title: "MarkdownDemo"
+author: "Kevin Glass"
+date: "1/4/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## RStudio Markdown
+
+This demonstrates the creation of a markdown document created in R
